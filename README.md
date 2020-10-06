@@ -1,2 +1,2 @@
 # Chronic-Kidney-Disease
-Chronic Kidney Disease Predictions
+Chronic Kidney Disease Predictions (Classification Problem)
